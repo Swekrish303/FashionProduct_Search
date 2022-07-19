@@ -9,4 +9,4 @@ This uses the YOLOv5 object detection model to accomplish object and specificati
 The model trained on the Fashionpedia dataset is preferred due to more classes (more specifications/attributes) present
 
 ## Web application:
-A simple web application has been built using the Streamlit library.
+A simple web application has been built using the Streamlit library
